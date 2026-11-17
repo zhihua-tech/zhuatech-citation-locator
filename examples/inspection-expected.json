@@ -1,0 +1,13 @@
+{
+  "metrics": {
+    "truncatedQuotes": 0
+  },
+  "row": {
+    "id": "R2",
+    "occurrences": 2,
+    "offsets": [
+      0,
+      5
+    ]
+  }
+}

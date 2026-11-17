@@ -1,0 +1,26 @@
+{
+  "title": "回答引文定位验收样本",
+  "settings": {
+    "minChars": 2
+  },
+  "rows": [
+    {
+      "id": "R1",
+      "sourceId": "手册",
+      "source": "📘交货七天。",
+      "quote": "交货"
+    },
+    {
+      "id": "R2",
+      "sourceId": "制度",
+      "source": "按月结算，按月付款。",
+      "quote": "按月"
+    },
+    {
+      "id": "R3",
+      "sourceId": "手册",
+      "source": "📘交货七天。",
+      "quote": "免运费"
+    }
+  ]
+}

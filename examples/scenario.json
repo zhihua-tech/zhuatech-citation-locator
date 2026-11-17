@@ -1,0 +1,11 @@
+{
+  "name": "最短引文放宽到 1 字",
+  "settings": {
+    "minChars": 1
+  },
+  "checkpoint": {
+    "metric": "uniqueHits",
+    "expected": 1,
+    "absoluteTolerance": 1e-10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "uniqueHits": 1,
+    "ambiguous": 1,
+    "missing": 1
+  },
+  "row": {
+    "id": "R1",
+    "fromChar": 1,
+    "toChar": 3
+  }
+}

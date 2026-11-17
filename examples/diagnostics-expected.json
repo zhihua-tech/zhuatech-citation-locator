@@ -1,0 +1,8 @@
+{
+  "metrics": {
+    "sourceDocs": 2,
+    "coveredCodepoints": 2,
+    "unambiguousCoverage": 0.125
+  },
+  "tolerance": 1e-10
+}
